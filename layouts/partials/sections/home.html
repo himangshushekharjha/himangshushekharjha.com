@@ -3,7 +3,7 @@
   {{ $author = (index site.Data site.Language.Lang).author }}
 {{ end }}
 
-{{ $name:="Jane Doe" }}
+{{ $name:="Kunal Jha" }}
 {{ if $author.nickname }}
   {{ $name = $author.nickname }}
 {{ else if $author.name }}
@@ -21,7 +21,7 @@
 {{ end }}
 
 
-{{ $authorImage:= "/images/default-avatar.png" }}
+{{ $authorImage:= "/images/kunal.jpeg" }}
 {{ if $author.image }}
   {{ $authorImage = $author.image }}
 {{ end }}
