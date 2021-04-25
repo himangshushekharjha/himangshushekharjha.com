@@ -11,32 +11,42 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Infineon Technologies
+    url: "https://www.infineon.com"
+    location: Los Angeles
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Infineon Technologies is a semiconductor manufacturer and is the market leader in automotive and power semiconductors.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Senior Staff Applications Engineer
+    start: Apr 2021
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Leading the Fit-for-Use Testing and assisting new product development for key products for their intended applications
+    - Creating and optimizing PCB Layouts for evaluation and demo boards for device/technology characterizations
+ 
+  - designation: Staff Applications Engineer
+    start: Oct 2020
+    end: Mar 2021
+    responsibilities:
+    - Performed Competitive Benchmarking at device and system levels for key product applications
+    - Assisted in development of new packaging concepts to understand their impact on electrical and thermal performance
+
+  - designation: Senior Applications Engineer
+    start: Aug 2019
+    end: Sept 2020
+    responsibilities:
+    - Conducted Trade and Performance Studies for electrical and thermal parameters of MOSFETs for different packages and technologies
+    - Provided Customer Support on MOSFET products
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Power Integrations Inc.
+    url: "https://www.power.com"
+    location: San Jose
+    overview: Power Integrations, Inc., is a Silicon Valley-based supplier of high-performance components used in high-voltage power conversion.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: New Product Definitions Intern
+    start: May 2018
+    end: Aug 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Tested flyback converters of various power ratings used for charging applications by checking the working of new MOSFETs
+    - Successfully designed a high-frequency fly-back converter using Eta Designer to determine core loss of transformer for different core materials and geometries to determine their effect on system efficiency
+
