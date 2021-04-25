@@ -12,15 +12,90 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: PLECS
-  icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of designing and running various power converters for Electrical and Thermal Simulations."
-  url: "https://kubernetes.io/"
+  # icon: "/images/sections/skills/kubernetes.png"
+  summary: "Designing and running various power converters for Electrical and Thermal Simulations."
+  # url: "https://kubernetes.io/"
 
-- name: Go Development
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: SIMetrix
+  # icon: "/images/sections/skills/go.png"
+  summary: "Simulating MOSFETs to determine their switching performance and calculate power loss"
+  # url: "https://golang.org/"
 
-- name: Cloud Computing
-  icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Altium
+  # icon: "/images/sections/skills/cloud.png"
+  summary: "Designing and implementing PCB layouts for various DC-DC and 3-phase converters to optimize the MOSFET electrical and thermal performance"
+
+- name: MATLAB Simulink
+  # icon: "/images/sections/skills/go.png"
+  summary: "Simulating control algorithms to control MOSFET switching using PI controllers for speed and torque control"
+  # url: "https://golang.org/"
+
+- name: Sauna
+  # icon: "/images/sections/skills/go.png"
+  summary: "Designing the MOSFET model to simulate and understand its thermal dissipation capabilities"
+  # url: "https://golang.org/"
+
+- name: WaveStudio
+  # icon: "/images/sections/skills/go.png"
+  summary: "Analyzing waveforms from the oscilloscope to calculate various parameters for MOSFET switching performance comparison"
+  # url: "https://golang.org/"
+
+- name: COMSOL
+  # icon: "/images/sections/skills/go.png"
+  summary: "Modelling DC-DC converters to simulate their thermal and magnetic performance"
+  # url: "https://golang.org/"
+
+- name: Cadence Allegro
+  # icon: "/images/sections/skills/go.png"
+  summary: "Designing and implementing PCB layouts for various DC-DC and 3-phase converters to optimize the MOSFET electrical and thermal performance"
+  # url: "https://golang.org/"
+
+- name: MATLAB
+  # icon: "/images/sections/skills/go.png"
+  summary: "Writing programs to implement control algorithms and calculate power loss for DC-DC converters"
+  # url: "https://golang.org/"
+
+- name: Verilog
+  # icon: "/images/sections/skills/go.png"
+  summary: "Writing programs to model various flip-flops and generate PWM control signals for gate-drivers"
+  # url: "https://golang.org/"
+
+- name: Python
+  # icon: "/images/sections/skills/go.png"
+  summary: "Writing programs to automate lab equipment for data collection"
+  # url: "https://golang.org/"
+
+- name: C
+  # icon: "/images/sections/skills/go.png"
+  summary: "Writing programs for low-level programmming"
+  # url: "https://golang.org/"
+
+- name: 4-Ch & 8-Ch Oscilloscopes
+  # icon: "/images/sections/skills/go.png"
+  # summary: ""
+  # url: "https://golang.org/"
+
+- name: Power Supplies
+  # icon: "/images/sections/skills/go.png"
+  # summary: ""
+  # url: "https://golang.org/"
+
+- name: Programmable DC Loads
+  # icon: "/images/sections/skills/go.png"
+  # summary: ""
+  # url: "https://golang.org/"
+
+- name: Signal Generators
+  # icon: "/images/sections/skills/go.png"
+  # summary: ""
+  # url: "https://golang.org/"
+
+- name: Digital Thermometers
+  # icon: "/images/sections/skills/go.png"
+  # summary: ""
+  # url: "https://golang.org/"
+
+- name: Soldering
+  # icon: "/images/sections/skills/go.png"
+  # summary: ""
+  # url: "https://golang.org/"
