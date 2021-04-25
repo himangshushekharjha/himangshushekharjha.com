@@ -21,7 +21,7 @@ buttons:
 projects:
 - name: New Product Innovation
   # logo: /images/sections/projects/kubernetes.png
-  role: Owner
+  # role: Owner
   timeline: "April 2020 - Present"
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -30,16 +30,25 @@ projects:
 
 - name: Series-Sync Buck Converter for High-Power Solar Applications
   # logo: /images/sections/projects/tensorflow.png
-  role: Owner
+  # role: Owner
   timeline: "Mar 2021"
   # repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: Designed a series synchronous-buck converter with 12 MOSFETs to replicate Multi-Level inverter operation for reducing testing time and effort for solar applications. Successfully conducted thermal and waveform analysis of MOSFETs to determine if MOSFETs are fit for use in the application.
   tags: ["professional"]
 
+- name: Sync Buck Converter for Fit For Use Tests
+  # logo: /images/sections/projects/tensorflow.png
+  # role: Owner
+  timeline: "Aug 2019 - Present"
+  # repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: Testing MOSFETs on synchronous buck converter and compare with competitor MOSFETs to understand if their electrical and thermal performance is comparabale and/or better than the MOSFETs currently present in the market.
+  tags: ["professional"]
+
 - name: Control of Induction Motor in an EV Propulsion Drive
   # logo: /images/sections/projects/toha.png
-  role: Owner
+  # role: Owner
   timeline: "Nov 2018"
   # repo: https://github.com/hossainemruz/toha
   summary: Developed a vehicle road model and an induction machine model for an EV in rotor flux reference frame to implement instantaneous torque control with a speed controller in indirect rotor flux orientation system. The vehicle model successfully followed the speed command given to the controller with minimal delay in the system.
