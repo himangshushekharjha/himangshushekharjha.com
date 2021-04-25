@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Infineon Technologies
     url: "https://www.infineon.com"
-    location: Los Angeles
+    location: Los Angeles, CA
     # company overview
     overview: Infineon Technologies is a semiconductor manufacturer and is the market leader in automotive and power semiconductors.
   positions:
@@ -40,7 +40,7 @@ experiences:
 - company:
     name: Power Integrations Inc.
     url: "https://www.power.com"
-    location: San Jose
+    location: San Jose, CA
     overview: Power Integrations, Inc., is a Silicon Valley-based supplier of high-performance components used in high-voltage power conversion.
   positions:
   - designation: New Product Definitions Intern
@@ -48,5 +48,18 @@ experiences:
     end: Aug 2018
     responsibilities:
     - Tested flyback converters of various power ratings used for charging applications by checking the working of new MOSFETs
+    - Studied the thermal effects of replacing standard bulk-capacitors with smaller bulk-capacitors
     - Successfully designed a high-frequency fly-back converter using Eta Designer to determine core loss of transformer for different core materials and geometries to determine their effect on system efficiency
 
+- company:
+    name: Reliance Industries Ltd.
+    url: "https://www.ril.com"
+    location: Jamnagar, India
+    overview: Reliance Industries is an Indian petroleum company that specializes in oil and energy, one of India's largest private sector companies.
+  positions:
+  - designation: Summer Intern
+    start: May 2016
+    end: July 2016
+    responsibilities:
+    - Performed Failure Mode Effect and Analysis (FMEA) of 33 kV underground cable network system
+    - Identified major faults and suggested new installation methods to improve reliability of the cable network system
