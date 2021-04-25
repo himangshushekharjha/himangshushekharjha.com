@@ -57,7 +57,7 @@ skills:
 
 - name: Python
   # icon: "/images/sections/skills/go.png"
-  summary: "Writing programs to automate lab equipment for data collection"
+  summary: "Writing scripts to automate lab equipment for data collection"
   # url: "https://golang.org/"
 
 - name: Verilog
