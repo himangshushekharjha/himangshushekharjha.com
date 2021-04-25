@@ -15,7 +15,8 @@
   {{ $sections = (index site.Data site.Language.Lang).sections }}
 {{ end }}
 
-{{ $backgroundImage:= "/images/background.png" }}
+<!-- {{ $backgroundImage:= "/images/background.png" }} -->
+{{ $backgroundImage:= "/images/default-background.jpg" }}
 {{ if site.Params.background }}
   {{ $backgroundImage = site.Params.background }}
 {{ end }}
