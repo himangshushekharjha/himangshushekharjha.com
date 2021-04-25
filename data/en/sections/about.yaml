@@ -18,7 +18,8 @@ company:
 resume: "files/Kunal_Jha_Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate electrical engineer with 2 years of professional experience.'
+#summary: 'I am a passionate electrical engineer with 2 years of professional experience.'
+summary: "I am an Electrical Engineer with two years of experience testing MOSFETs and designing PCB layouts for various applications. I am passionate about my work and I like to keep my tests both clear and efficient to improve reliability. I adapt well to the changing needs of businesses and enjoy researching new test systems to streamline the testing process."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
