@@ -55,14 +55,14 @@ skills:
   summary: "Writing programs to implement control algorithms and calculate power loss for DC-DC converters"
   # url: "https://golang.org/"
 
-- name: Verilog
-  # icon: "/images/sections/skills/go.png"
-  summary: "Writing programs to model various flip-flops and generate PWM control signals for gate-drivers"
-  # url: "https://golang.org/"
-
 - name: Python
   # icon: "/images/sections/skills/go.png"
   summary: "Writing programs to automate lab equipment for data collection"
+  # url: "https://golang.org/"
+
+- name: Verilog
+  # icon: "/images/sections/skills/go.png"
+  summary: "Writing programs to model various flip-flops and generate PWM control signals for gate-drivers"
   # url: "https://golang.org/"
 
 - name: C
@@ -72,30 +72,30 @@ skills:
 
 - name: 4-Ch & 8-Ch Oscilloscopes
   # icon: "/images/sections/skills/go.png"
-  # summary: ""
+  summary: "Using Oscilloscopes to monitor the voltage and current waveforms for lab tests and evaluate MOSFET performance"
   # url: "https://golang.org/"
 
 - name: Power Supplies
   # icon: "/images/sections/skills/go.png"
-  # summary: ""
+  summary: "Operating Power Supplies for lab tests from 0 - 300V input and upto 7kW power"
   # url: "https://golang.org/"
 
 - name: Programmable DC Loads
   # icon: "/images/sections/skills/go.png"
-  # summary: ""
+  summary: "Using programmable DC loads to conduct lab tests in Constant Voltage, Constant Current, Constant Resistance modes, Pulsed Current Testing upto 450A"
   # url: "https://golang.org/"
 
 - name: Signal Generators
   # icon: "/images/sections/skills/go.png"
-  # summary: ""
+  summary: "Working with Signal Generators to generate pulses for gate-drive signals up to 200 kHz with variable duty cycles"
   # url: "https://golang.org/"
 
-- name: Digital Thermometers
+- name: Digital Multimeters
   # icon: "/images/sections/skills/go.png"
-  # summary: ""
+  summary: "Using digital multimeters to measure resistance, diode voltage, capacitance and voltage drop in the power converter"
   # url: "https://golang.org/"
 
 - name: Soldering
   # icon: "/images/sections/skills/go.png"
-  # summary: ""
+  summary: "Working with soldering iron to solder various components on the PCB"
   # url: "https://golang.org/"
