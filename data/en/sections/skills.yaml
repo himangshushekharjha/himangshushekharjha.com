@@ -11,9 +11,9 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: PLECS
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "Capable of designing and running various power converters for Electrical and Thermal Simulations."
   url: "https://kubernetes.io/"
 
 - name: Go Development
