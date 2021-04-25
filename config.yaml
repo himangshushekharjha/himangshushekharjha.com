@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://www.kunaljha.net
 
 languageCode: en-us
 title: "Kunal Jha"
@@ -27,7 +27,7 @@ params:
   gitRepo: https://github.com/kunaljha110/kunaljha.net
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

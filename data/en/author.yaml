@@ -1,0 +1,16 @@
+# some information about you
+name: "Kunal Jha"
+nickname: "Kunal"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/kunal.jpeg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "kunajha110@gmail.com"
+  # phone: ""
+
+# some summary about what you do
+summary:
+  - I am an Electrical Engineer
+  - I specialize in Power Electronics
+  - I am based in Los Angeles
