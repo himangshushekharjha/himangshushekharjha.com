@@ -29,7 +29,7 @@ projects:
   # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Testing new products in various DC-DC Converters to compare their thermal and electrical performance against existing products. Working with New Product Definition and Marketing teams to find areas of improvement and make the required design changes.
-  tags: ["Professional","New Product Innovation"]
+  tags: ["Professional", "New Product Innovation"]
 
 - name: Series-Sync Buck Converter for High-Power Solar Applications
   # logo: /images/sections/projects/tensorflow.png
@@ -47,7 +47,7 @@ projects:
   # repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: Testing MOSFETs on synchronous buck converter and compare with competitor MOSFETs to understand if their electrical and thermal performance is comparabale and/or better than the MOSFETs currently present in the market.
-  tags: ["Professional","Simulation","New Product Innovation"]
+  tags: ["Professional", "New Product Innovation"]
 
 - name: Control of Induction Motor in an EV Propulsion Drive
   # logo: /images/sections/projects/toha.png
@@ -55,7 +55,7 @@ projects:
   timeline: "Nov 2018"
   # repo: https://github.com/hossainemruz/toha
   summary: Developed a vehicle road model and an induction machine model for an EV in rotor flux reference frame to implement instantaneous torque control with a speed controller in indirect rotor flux orientation system. The vehicle model successfully followed the speed command given to the controller with minimal delay in the system.
-  tags: ["Academic","Simulation"]
+  tags: ["Academic", "Simulation"]
 
 - name: On-Board Electric Vehicle Battery Charging Station using PID Control
   # logo: /images/sections/projects/toha.png
@@ -63,7 +63,7 @@ projects:
   timeline: "Oct - Nov 2017"
   # repo: https://github.com/hossainemruz/toha
   summary: Designed an on-board electric-vehicle charger consisting of a boost converter followed by a two-switch forward converter using feedback PID control for a fixed 400V, 3.3kW output. Designed high-frequency transformer and inductor design using ferrite core and copper wires. Performed analog implementation of feedback controller using a combination of capacitors and resistors.
-  tags: ["Academic","Simulation"]
+  tags: ["Academic", "Simulation"]
 
 - name: Speed Controller For The BLDC Machine
   # logo: /images/sections/projects/toha.png
@@ -71,7 +71,7 @@ projects:
   timeline: "Mar - Apr 2018"
   # repo: https://github.com/hossainemruz/toha
   summary: Designed current and speed controllers by decoupling the motor’s electrical and mechanical parts for a motor rated at 1 kW, 500 Vdc, and 3000 rpm. Implemented two separate PI controllers for controlling current and speed of the motor.
-  tags: ["Academic","Simulation"]
+  tags: ["Academic", "Simulation"]
 
 - name: Module Design for Double-Pulse Tester
   # logo: /images/sections/projects/toha.png
@@ -79,7 +79,7 @@ projects:
   timeline: "Mar 2018"
   # repo: https://github.com/hossainemruz/toha
   summary: Designed two modules incorporating (1) DBC substrate and baseplate. (2) IMS substrate to accommodate a SiC Power MOSFET, Diode and Gate Drive for a 900V/30A double pulse tester. Designed the layout, housing and terminations to keep the temperature below 125°C.
-  tags: ["Academic","Simulation"]
+  tags: ["Academic", "Simulation"]
 
 - name: High Current Testing
   # logo: /images/sections/projects/toha.png
@@ -87,7 +87,7 @@ projects:
   timeline: "Aug 2019 - Present"
   # repo: https://github.com/hossainemruz/toha
   summary: Testing new MOSFETs technologies and package designs by pushing very high currents to evaluate current carrying capabilities and evaluate their steady state and transient thermal performance.
-  tags: ["Professional","New Product Innovation"]
+  tags: ["Professional", "New Product Innovation"]
 
 - name: Double Pulse Testing
   # logo: /images/sections/projects/toha.png
@@ -95,7 +95,7 @@ projects:
   timeline: "Oct 2019 - Present"
   # repo: https://github.com/hossainemruz/toha
   summary: Evaluating new MOSFET technologies at various current and voltage levels to understand the diode reverse recovery performance.
-  tags: ["Professional","New Product Innovation"]
+  tags: ["Professional", "New Product Innovation"]
 
 - name: 3-Phase BLDC Motor Testing
   # logo: /images/sections/projects/toha.png
@@ -103,7 +103,7 @@ projects:
   timeline: "Apr 2021 - Present"
   # repo: https://github.com/hossainemruz/toha
   summary: Testing new MOSFETs in 3-phase inverters for BLDC Motor control and compare electrical and thermal performance against existing products from competitors.
-  tags: ["Professional","New Product Innovation"]
+  tags: ["Professional", "New Product Innovation"]
 
 - name: Full-Bridge Tests
   # logo: /images/sections/projects/toha.png
@@ -111,7 +111,7 @@ projects:
   timeline: "Sept 2021 - Present"
   # repo: https://github.com/hossainemruz/toha
   summary: Examining MOSFET in Full-Bridge tests to understand their performance for SMPS applications.
-  tags: ["Professional","Simulation"]
+  tags: ["Professional", "Simulation"]
 
 - name: Datasheet Evaluation
   # logo: /images/sections/projects/toha.png
@@ -119,7 +119,7 @@ projects:
   timeline: "Nov 2019 - Present"
   # repo: https://github.com/hossainemruz/toha
   summary: Verifying Datasheet parameters for different technologies to ensure they are accurate by comparing them to measurements from lab tests.
-  tags: ["Professional","New Product Innovation"]
+  tags: ["Professional", "New Product Innovation"]
 
 - name: Avalanche and SOA Testing
   # logo: /images/sections/projects/toha.png
@@ -135,4 +135,4 @@ projects:
   timeline: "Dec 2019 - Present"
   # repo: https://github.com/hossainemruz/toha
   summary: Designing and implementing PCB layouts for various power converters to emulate real world application and optimize MOSFET switching and thermal performance.
-  tags: ["Professional","Simulation"]
+  tags: ["Professional", "Simulation"]
