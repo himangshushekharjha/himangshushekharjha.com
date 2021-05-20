@@ -1,4 +1,4 @@
-baseURL: https://www.kunaljha.net
+baseURL: https://www.himangshushekharjha.com
 
 languageCode: en-us
 title: "Himangshu Shekhar Jha"
@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/kunaljha110/kunaljha.net
+  gitRepo: https://github.com/himangshushekharjha/himangshushekharjha.com
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
