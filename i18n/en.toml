@@ -78,7 +78,10 @@ other = "Show More"
 other = "Show Less"
 
 [responsibilities]
-other = "Responsibilities:"
+other = "Here, I:"
+
+[techstack]
+other = "Technologies Used:"
 
 [specialization]
 other = "Specialization:"

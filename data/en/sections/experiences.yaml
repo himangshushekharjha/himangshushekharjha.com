@@ -11,55 +11,58 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Infineon Technologies
-    url: "https://www.infineon.com"
-    location: Los Angeles, CA
+    name: Samsung R&D Institute India
+    url: "https://research.samsung.com/sri-b"
+    location: Bengaluru, Karnataka
     # company overview
-    overview: Infineon Technologies is a semiconductor manufacturer and is the market leader in automotive and power semiconductors.
+    overview: Samsung R&D Institute India-Bangalore (SRI-B) is the largest R&D Center outside of South Korea and is focused towards creating cutting edge technologies across multiple areas of Samsung’s business that transform experiences of users both globally, as well as in local markets. 
   positions:
-  - designation: Senior Staff Applications Engineer
-    start: Apr 2021
-    responsibilities:
-    - Leading the Fit-for-Use Testing and assisting new product development for key products for their intended applications
-    - Creating and optimizing PCB Layouts for evaluation and demo boards for device/technology characterizations
- 
-  - designation: Staff Applications Engineer
+  - designation: Research Intern (PRISM)
     start: Oct 2020
-    end: Mar 2021
+    end: 
     responsibilities:
-    - Performed Competitive Benchmarking at device and system levels for key product applications
-    - Assisted in development of new packaging concepts to understand their impact on electrical and thermal performance
-
-  - designation: Senior Applications Engineer
-    start: Aug 2019
-    end: Sept 2020
-    responsibilities:
-    - Conducted Trade and Performance Studies for electrical and thermal parameters of MOSFETs for different packages and technologies
-    - Provided Customer Support on MOSFET products
-
+    - Designed and implemented a learning pipeline for automated hardware-aware DNN customization
+    techstack:
+    - Python
+    - Keras
+    - PyTorch
+    - TensorFlow
+    
 - company:
-    name: Power Integrations Inc.
-    url: "https://www.power.com"
-    location: San Jose, CA
-    overview: Power Integrations, Inc., is a Silicon Valley-based supplier of high-performance components used in high-voltage power conversion.
+    name: SNAM Alloys Pvt Ltd.
+    url: "https://snam.co.in/"
+    location: Bengaluru, Karnataka
+    overview: SNAM Alloys Pvt Ltd. is the largest producer of Value Added Ferro Alloys in the world with 30 years of national and international presence in over 40 countries and 6 continents.
   positions:
-  - designation: New Product Definitions Intern
-    start: May 2018
+  - designation: Project Intern
+    start: Oct 2020
     end: Aug 2018
     responsibilities:
-    - Tested flyback converters of various power ratings used for charging applications by checking the working of new MOSFETs
-    - Studied the thermal effects of replacing standard bulk-capacitors with smaller bulk-capacitors
-    - Successfully designed a high-frequency fly-back converter using Eta Designer to determine core loss of transformer for different core materials and geometries to determine their effect on system efficiency
-
+    - Designed and implemented REST APIs, databases and payment processing system as a backend developer
+    - Migrated desktop client from .NET to Electron with Vue.js for the front-end, substantially improving customer management
+    techstack:
+    - Python
+    - JavaScript
+    - Node.js
+    - MongoDB
+    - Express
+    - Vue.js
+    - Electron
+    
 - company:
-    name: Reliance Industries Ltd.
-    url: "https://www.ril.com"
-    location: Jamnagar, India
-    overview: Reliance Industries is an Indian petroleum company that specializes in oil and energy, one of India's largest private sector companies.
+    name: Leoxipraade Pvt Ltd.
+    url: "https://www.linkedin.com/company/leoxipraade-private-limited/about/"
+    location: Bengaluru, Karnataka
+    # overview: Reliance Industries is an Indian petroleum company that specializes in oil and energy, one of India's largest private sector companies.
   positions:
-  - designation: Summer Intern
-    start: May 2016
-    end: July 2016
+  - designation: Full-Stack Intern
+    start: Mar 2020
+    end: Aug 2020
     responsibilities:
-    - Performed Failure Mode Effect and Analysis (FMEA) of 33 kV underground cable network system
-    - Identified major faults and suggested new installation methods to improve reliability of the cable network system
+    - Designed and implemented a web application to handle all phases involved in shipping
+    - Implemented business logic on the backend using REST APIs and UI modules for the website on the frontend
+    techstack:
+    - JavaScript
+    - Node.js
+    - MongoDB
+    - Vue.js

@@ -24,6 +24,11 @@
             <li>{{ . | markdownify }}</li>
         {{ end }}
         </ul>
+        <ul class="justify-content-around">
+        {{ range $position.techstack }}
+            <li>{{ . | markdownify }}</li>
+        {{ end }}
+        </ul>
     {{ end }}
     </div>
 </div>

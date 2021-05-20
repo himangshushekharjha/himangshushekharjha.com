@@ -189,6 +189,7 @@ Here is the check list for portfolio mode,
   - [x] Timeline
   - [x] Company Overview
   - [x] Responsibilities
+  - [x] Tech Stack
 
 - [x] **Projects**
 

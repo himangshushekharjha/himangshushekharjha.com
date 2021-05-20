@@ -8,46 +8,50 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Senior Staff Applications Engineer
+designation: CSE Student
 # your company information
 company:
-  name: Infineon Technologies
-  url: "https://www.infineon.com"
+  name: Ramaiah Institute of Technology
+  url: "http://www.msrit.edu/"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Kunal_Jha_Resume.pdf"
+resume: "files/resume.pdf"
 
 # a summary about you
-#summary: 'I am a passionate electrical engineer with 2 years of professional experience.'
-summary: "I am an Electrical Engineer with two years of experience testing MOSFETs and designing PCB layouts for various applications. I am passionate about my work and I like to keep my tests both clear and efficient to improve reliability. I adapt well to the changing needs of businesses and enjoy researching new test systems to streamline the testing process."
-
-# your social links
+summary: 'I am a passionate electrical engineer with 2 years of professional experience.'
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/jhakunal"
-
+  url: "https://www.linkedin.com/in/himancifer/"
+- name: GitHub
+  icon: "fab fa-github"
+  url: "https://github.com/himangshushekharjha"
+  
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 100
-  color: blue
-- name: Team Work
-  percentage: 100
-  color: yellow
-- name: Adaptability
-  percentage: 100
-  color: green
-- name: Collaboration
-  percentage: 100
-  color: orange
 - name: Creativity
   percentage: 100
   color: sky
+- name: Collaboration
+  percentage: 100
+  color: orange
 - name: Communication
   percentage: 100
   color: pink
+- name: Adaptability
+  percentage: 100
+  color: green
+- name: Innovation
+  percentage: 100
+  color: blue
+- name: Critical Thinking
+  percentage: 100
+  color: yellow
+
+
+
+
 

@@ -9,49 +9,32 @@ section:
   # hideTitle: true 
 
 degrees:
-- name: Master of Science in Electrical Engineering
+- name: Bachelor of Engineering in Computer Science & Engineering
   icon: fa-graduation-cap
-  timeframe: 2017 - 2019
+  timeframe: 2018 - Present
   institution:
-    name: North Carolina State University
-    url: "https://www.ncsu.edu"
+    name: Ramaiah Institute of Technology, Bengaluru
+    url: "http://www.msrit.edu/"
   grade:
     scale: CGPA
-    achieved: 3.83
-    outOf: 4.0
-  # publications:
-  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #   url: "#"
-  # - title: Fusce eu augue ut odio porttitor pulvinar.
-  #   url: "#"
-  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-  #   url: "#"
-- name: Bachelor of Technology in Electrical and Electronics Engineering
-  icon: fa-graduation-cap
-  timeframe: 2013 - 2017
-  institution:
-    name: National Institute of Technology Karnataka
-    url: "https://www.nitk.ac.in"
-  grade:
-    scale: CGPA
-    achieved: 8.62
+    achieved: 9.51
     outOf: 10
-  # takenCourses:
-  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-  #   showGrades: true
-  #   courses:
-  #   - name: Data Structures and Algorithm
-  #     achieved: 3.75
-  #     outOf: 4
-  #   - name: Network Security
-  #     achieved: 3.80
-  #     outOf: 4
-  #   - name: Operating System
-  #     achieved: 3.5
-  #     outOf: 4
-  #   - name: Artificial Intelligent
-  #     achieved: 3.75
-  #     outOf: 4
+  takenCourses:
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Data Structures and Algorithms
+      achieved: 3.75
+      outOf: 4
+    - name: Network Security
+      achieved: 3.80
+      outOf: 4
+    - name: Operating System
+      achieved: 3.5
+      outOf: 4
+    - name: Artificial Intelligent
+      achieved: 3.75
+      outOf: 4
   # publications:
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"

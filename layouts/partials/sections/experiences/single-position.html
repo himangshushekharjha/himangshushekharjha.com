@@ -23,4 +23,13 @@
         {{ end }}
         </ul>
     {{ end }}
+    <!-- Add the technologies used at this position -->
+    {{ if $position.techstack }}
+        <h6 class="text-muted">{{ i18n "techstack" }}</h6>
+        <ul class="justify-content-around">
+        {{ range $position.techstack }}
+            <li>{{ . | markdownify }}</li>
+        {{ end }}
+        </ul>
+    {{ end }}
 </div>
