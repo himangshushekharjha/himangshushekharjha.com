@@ -50,6 +50,11 @@ skills:
   # summary: "Designing and implementing PCB layouts for various DC-DC and 3-phase converters to optimize the MOSFET electrical and thermal performance"
   # url: "https://golang.org/"
 
+- name: React.js
+  # icon: "/images/sections/skills/go.png"
+  # summary: "Designing and implementing PCB layouts for various DC-DC and 3-phase converters to optimize the MOSFET electrical and thermal performance"
+  # url: "https://golang.org/"
+
 - name: Cheerio.js
   # icon: "/images/sections/skills/go.png"
   # summary: "Writing programs to implement control algorithms and calculate power loss for DC-DC converters"
