@@ -17,23 +17,41 @@ degrees:
     url: "http://www.msrit.edu/"
   grade:
     scale: CGPA
-    achieved: 9.51
+    achieved: 9.46
     outOf: 10
   takenCourses:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     courses:
-    - name: Data Structures and Algorithms
-      achieved: 3.75
+    - name: DATABASE SYSTEMS
+      achieved: 4
       outOf: 4
-    - name: Network Security
-      achieved: 3.80
+    - name: OPERATING SYSTEMS
+      achieved: 4
       outOf: 4
-    - name: Operating System
-      achieved: 3.5
+    - name: COMPUTER NETWORKS
+      achieved: 4
       outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
+    - name: DESIGN AND ANALYSIS OF ALGORITHMS
+      achieved: 4
+      outOf: 4
+    - name: DATA STRUCTURES
+      achieved: 4
+      outOf: 4
+    - name: DISCRETE MATHEMATICAL STRUCTURES
+      achieved: 4
+      outOf: 4
+    - name: OBJECT ORIENTED PROGRAMMING
+      achieved: 3
+      outOf: 3
+    - name: SOFTWARE ENGINEERING
+      achieved: 3
+      outOf: 3
+    - name: COMPUTER ORGANIZATION AND ARCHITECTURE
+      achieved: 4
+      outOf: 4
+    - name: DATA COMMUNICATION
+      achieved: 4
       outOf: 4
   # publications:
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
