@@ -3,7 +3,7 @@ name: "Himangshu Shekhar Jha"
 nickname: "Himangshu"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/himangshu.png"
+image: "images/himangshu.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "himangshushekharjha@gmail.com"
