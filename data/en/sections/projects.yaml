@@ -19,6 +19,13 @@ buttons:
 
 # your projects
 projects:
+- name: Lightweight Cloud Based Solution Of Digital Education And Assessment
+  # logo: /images/sections/projects/toha.png
+  # role: Owner
+  # timeline: "Mar 2018"
+  # repo: https://github.com/hossainemruz/toha
+  summary: Online assessment tool for conducting assessments in an easy and effective manner deployed on the in-house servers using Kubernetes
+  tags: ["Academic"]
 - name: URL Path Finder
   # logo: /images/sections/projects/toha.png
   # role: Owner
