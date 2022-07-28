@@ -17,7 +17,7 @@ degrees:
     url: "http://www.msrit.edu/"
   grade:
     scale: CGPA
-    achieved: 9.46
+    achieved: 9.52
     outOf: 10
   takenCourses:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
@@ -27,9 +27,6 @@ degrees:
       achieved: 4
       outOf: 4
     - name: OPERATING SYSTEMS
-      achieved: 4
-      outOf: 4
-    - name: COMPUTER NETWORKS
       achieved: 4
       outOf: 4
     - name: DESIGN AND ANALYSIS OF ALGORITHMS
@@ -50,9 +47,51 @@ degrees:
     - name: COMPUTER ORGANIZATION AND ARCHITECTURE
       achieved: 4
       outOf: 4
-    - name: DATA COMMUNICATION
+    - name: DATA COMMUNICATION & NETWORKING
       achieved: 4
       outOf: 4
+    - name: THEORY OF COMPUTATION
+      achieved: 4
+      outOf: 4
+    - name: ANALOG AND DIGITAL DESIGN
+      achieved: 4
+      outOf: 4
+    - name: MICROPROCESSORS AND MICROCONTROLLERS
+      achieved: 4
+      outOf: 4
+    - name: ARTIFICIAL INTELLIGENCE
+      achieved: 4
+      outOf: 4
+    - name: ADVANCED COMPUTER NETWORKS
+      achieved: 3
+      outOf: 3
+    - name: UNIX SYSTEM PROGRAMMING AND WEB TECHNOLOGIES
+      achieved: 4
+      outOf: 4
+    - name: COMPILER DESIGN
+      achieved: 4
+      outOf: 4
+    - name: PROBABILITY, STATISTICS & QUEUING THEORY
+      achieved: 3
+      outOf: 3
+    - name: DATA MINING AND MACHINE LEARNING
+      achieved: 3
+      outOf: 3
+    - name: INFORMATION RETRIEVAL
+      achieved: 3
+      outOf: 3
+    - name: CLOUD COMPUTING AND BIG DATA
+      achieved: 4
+      outOf: 4
+    - name: MULTI CORE ARCHITECTURE AND PROGRAMMING
+      achieved: 4
+      outOf: 4
+    - name: CRYPTOGRAPHY AND NETWORK SECURITY
+      achieved: 3
+      outOf: 3
+    - name: DISTRIBUTED SYSTEMS
+      achieved: 3
+      outOf: 3
   # publications:
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
