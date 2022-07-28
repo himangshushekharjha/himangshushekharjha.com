@@ -11,22 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Samsung R&D Institute India
-    url: "https://research.samsung.com/sri-b"
+    name: Morgan Stanley
+    url: "https://www.morganstanley.com/"
     location: Bengaluru, Karnataka
     # company overview
-    overview: Samsung R&D Institute India-Bangalore (SRI-B) is the largest R&D Center outside of South Korea and is focused towards creating cutting edge technologies across multiple areas of Samsung’s business that transform experiences of users both globally, as well as in local markets. 
+    overview: "Morgan Stanley is a financial services corporation that, through its affiliates and subsidiaries, advises, and originates, trades, manages, and distributes capital for institutions, governments, and individuals. The company operates in three business segments: Institutional Securities, Wealth Management, and Investment Management"
   positions:
-  - designation: Research Intern (PRISM)
-    start: Oct 2020
-    end: 
+  - designation: Technology Analyst Intern
+    start: Feb 2022
+    end: Jul 2022
     responsibilities:
-    - Designed and implemented a learning pipeline for automated hardware-aware DNN customization
+    - Designed an in house tool to analyze and decommission all releases, releaselinks, CI Jobs and repositories associated with a project freeing dollar equivalent space on the file system using Flask as backend and Click module of python for command line interface
+    - Proposed a proof of concept to decouple business logic from the application logic using Open Policy Agent
     techstack:
     - Python
-    - Keras
-    - PyTorch
-    - TensorFlow
+    - Flask
+    - Click
+    - Angular
+    - Open Policy Agent
+    - Rego
     
 - company:
     name: SNAM Alloys Pvt Ltd.
@@ -36,7 +39,7 @@ experiences:
   positions:
   - designation: Project Intern
     start: Oct 2020
-    end: Aug 2018
+    end: Nov 2021
     responsibilities:
     - Designed and implemented REST APIs, databases and payment processing system as a backend developer
     - Migrated desktop client from .NET to Electron with Vue.js for the front-end, substantially improving customer management
@@ -48,6 +51,25 @@ experiences:
     - Express
     - Vue.js
     - Electron
+
+- company:
+    name: Samsung R&D Institute India
+    url: "https://research.samsung.com/sri-b"
+    location: Bengaluru, Karnataka
+    # company overview
+    overview: Samsung R&D Institute India-Bangalore (SRI-B) is the largest R&D Center outside of South Korea and is focused towards creating cutting edge technologies across multiple areas of Samsung’s business that transform experiences of users both globally, as well as in local markets. 
+  positions:
+  - designation: Research Intern (PRISM)
+    start: Oct 2020
+    end: Jul 2021
+    responsibilities:
+    - Designed and implemented a learning pipeline for automated hardware-aware DNN customization
+    - Tested inference time and accuracy on mobile devices like Samsung M31, OnePlus Nord, etc with reduction in inference time by 50% for ResNet50 and 20% for MobileNetV1 datasets with accuracy preserved
+    techstack:
+    - Python
+    - Keras
+    - PyTorch
+    - TensorFlow
     
 - company:
     name: Leoxipraade Pvt Ltd.
